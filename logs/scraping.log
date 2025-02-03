@@ -1,0 +1,457 @@
+2025-01-29 19:12:58,644 - INFO - Telegram scraper started successfully.
+2025-01-29 19:12:58,688 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-01-29 19:13:00,143 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-29 19:13:09,031 - INFO - Phone migrated to 4
+2025-01-29 19:13:09,171 - INFO - Reconnecting to new data center 4
+2025-01-29 19:13:09,330 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-29 19:13:09,331 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-29 19:13:09,331 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:13:10,869 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:13:23,879 - INFO - Scraped 100 messages from https://t.me/DoctorsET
+2025-01-29 19:13:24,358 - INFO - Scraped 76 messages from https://t.me/CheMed123
+2025-01-29 19:13:24,890 - INFO - Scraped 100 messages from https://t.me/lobelia4cosmetics
+2025-01-29 19:13:25,567 - INFO - Scraped 100 messages from https://t.me/yetenaweg
+2025-01-29 19:13:26,331 - INFO - Scraped 100 messages from https://t.me/EAHCI
+2025-01-29 19:13:26,369 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 19:13:26,369 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:15:35,349 - INFO - Telegram scraper started successfully.
+2025-01-29 19:15:35,378 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:15:35,500 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:15:36,933 - INFO - Scraped 100 messages from https://t.me/DoctorsET
+2025-01-29 19:15:37,668 - INFO - Scraped 76 messages from https://t.me/CheMed123
+2025-01-29 19:15:38,258 - INFO - Scraped 100 messages from https://t.me/lobelia4cosmetics
+2025-01-29 19:15:38,846 - INFO - Scraped 100 messages from https://t.me/yetenaweg
+2025-01-29 19:15:39,827 - INFO - Scraped 100 messages from https://t.me/EAHCI
+2025-01-29 19:15:39,837 - INFO - Messages saved successfully!
+2025-01-29 19:36:55,804 - INFO - Telegram scraper started successfully.
+2025-01-29 19:36:55,835 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:36:55,937 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:36:57,211 - INFO - Scraped 100 messages from https://t.me/DoctorsET
+2025-01-29 19:36:57,650 - INFO - Scraped 76 messages from https://t.me/CheMed123
+2025-01-29 19:36:58,098 - INFO - Scraped 100 messages from https://t.me/lobelia4cosmetics
+2025-01-29 19:36:58,619 - INFO - Scraped 100 messages from https://t.me/yetenaweg
+2025-01-29 19:36:59,190 - INFO - Scraped 100 messages from https://t.me/EAHCI
+2025-01-29 19:36:59,196 - INFO - Messages saved successfully!
+2025-01-29 19:36:59,196 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 19:36:59,197 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+
+2025-01-29 19:50:59,157 - INFO - Telegram Image scraper started successfully.
+2025-01-29 19:52:41,021 - INFO - Telegram Image scraper started successfully.
+2025-01-29 19:52:41,045 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:52:41,160 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:52:42,536 - ERROR - Error scraping images from https://t.me/CheMed123: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'D:\\KAIM\\Ethiopian-Medical-Business-Data-Warehouse\\data\\raw/https:'
+2025-01-29 19:52:42,984 - ERROR - Error scraping images from https://t.me/lobelia4cosmetics: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'D:\\KAIM\\Ethiopian-Medical-Business-Data-Warehouse\\data\\raw/https:'
+2025-01-29 19:52:42,984 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 19:52:42,984 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:55:05,646 - INFO - Telegram Image scraper started successfully.
+2025-01-29 19:55:05,671 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:55:05,781 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:55:06,984 - ERROR - Error scraping images from https://t.me/CheMed123: [Errno 22] Invalid argument: 'D:\\KAIM\\Ethiopian-Medical-Business-Data-Warehouse\\data\\raw\\_CheMed123_2023-02-10 12:23:06+00:00.jpg'
+2025-01-29 19:55:07,406 - ERROR - Error scraping images from https://t.me/lobelia4cosmetics: [Errno 22] Invalid argument: 'D:\\KAIM\\Ethiopian-Medical-Business-Data-Warehouse\\data\\raw\\_lobelia4cosmetics_2025-01-29 13:01:26+00:00.jpg'
+2025-01-29 19:55:07,406 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 19:55:07,406 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:56:51,767 - INFO - Telegram Image scraper started successfully.
+2025-01-29 19:56:51,791 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 19:56:51,893 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 19:56:53,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:53,619 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-02-10_12-23-06.jpg
+2025-01-29 19:56:53,620 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:54,296 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-02-02_08-58-52.jpg
+2025-01-29 19:56:54,297 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:54,701 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-02-01_08-59-37.jpg
+2025-01-29 19:56:54,702 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:55,141 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-31_09-19-53.jpg
+2025-01-29 19:56:55,141 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:55,829 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-30_09-45-25.jpg
+2025-01-29 19:56:55,839 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:56,570 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-27_07-18-40.jpg
+2025-01-29 19:56:56,570 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:56,973 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-26_18-27-53.jpg
+2025-01-29 19:56:56,973 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:57,728 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-23_10-39-20.jpg
+2025-01-29 19:56:57,728 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:58,396 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-17_08-43-12.jpg
+2025-01-29 19:56:58,398 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:59,001 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-16_13-41-35.jpg
+2025-01-29 19:56:59,002 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:59,661 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-16_10-13-42.jpg
+2025-01-29 19:56:59,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:56:59,997 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-16_09-26-09.jpg
+2025-01-29 19:56:59,998 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:00,430 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-13_12-48-47.jpg
+2025-01-29 19:57:00,431 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:01,095 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-13_09-44-14.jpg
+2025-01-29 19:57:01,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:01,503 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-06_16-06-21.jpg
+2025-01-29 19:57:01,504 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:02,210 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-06_09-31-17.jpg
+2025-01-29 19:57:02,210 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:02,885 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-06_06-05-01.jpg
+2025-01-29 19:57:02,886 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:03,552 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-04_05-58-02.jpg
+2025-01-29 19:57:03,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:04,153 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-03_17-49-48.jpg
+2025-01-29 19:57:04,154 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:04,756 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-03_05-48-34.jpg
+2025-01-29 19:57:04,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:05,114 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2023-01-02_07-02-55.jpg
+2025-01-29 19:57:05,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:05,714 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-30_15-45-35.jpg
+2025-01-29 19:57:05,714 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:06,387 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-28_17-02-08.jpg
+2025-01-29 19:57:06,388 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:07,082 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-28_06-31-50.jpg
+2025-01-29 19:57:07,083 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:07,698 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-27_17-06-32.jpg
+2025-01-29 19:57:07,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:08,120 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-23_06-26-15.jpg
+2025-01-29 19:57:08,120 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:08,546 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-22_06-40-25.jpg
+2025-01-29 19:57:08,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:08,785 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-22_03-11-26.jpg
+2025-01-29 19:57:08,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:09,259 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-21_15-13-27.jpg
+2025-01-29 19:57:09,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:10,012 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-20_17-25-05.jpg
+2025-01-29 19:57:10,013 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:10,710 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-20_11-28-59.jpg
+2025-01-29 19:57:10,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:11,284 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-20_07-41-33.jpg
+2025-01-29 19:57:11,285 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:11,669 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-16_12-21-01.jpg
+2025-01-29 19:57:11,680 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:12,079 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-13_05-55-18.jpg
+2025-01-29 19:57:12,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:12,460 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-09_12-28-53.jpg
+2025-01-29 19:57:12,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:13,238 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-09_04-09-49.jpg
+2025-01-29 19:57:13,239 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:13,687 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-07_06-43-48.jpg
+2025-01-29 19:57:13,698 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:14,148 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-05_05-57-22.jpg
+2025-01-29 19:57:14,149 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:14,516 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-04_12-35-18.jpg
+2025-01-29 19:57:14,517 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:14,954 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-02_13-44-41.jpg
+2025-01-29 19:57:14,955 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:16,164 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-02_06-06-12.jpg
+2025-01-29 19:57:16,165 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:16,796 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-12-01_06-47-22.jpg
+2025-01-29 19:57:16,796 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:17,185 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-11-30_06-31-44.jpg
+2025-01-29 19:57:17,185 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:17,574 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-11-29_07-43-06.jpg
+2025-01-29 19:57:17,574 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:17,931 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-11-22_08-15-47.jpg
+2025-01-29 19:57:17,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:18,496 - INFO - Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_CheMed123_2022-11-15_11-51-16.jpg
+2025-01-29 19:57:18,839 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:19,058 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:19,058 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:19,368 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:19,368 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:19,620 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:19,620 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:19,888 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:19,889 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:20,093 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:20,094 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:20,760 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:20,760 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:21,370 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:21,371 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:21,942 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 19:57:21,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:22,153 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_12-59-56.jpg
+2025-01-29 19:57:22,154 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:22,409 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-04.jpg
+2025-01-29 19:57:22,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:22,723 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:22,724 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:22,896 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:22,897 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:23,254 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:23,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:23,538 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:23,539 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:23,685 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:23,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:23,948 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 19:57:23,948 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:24,140 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-29_05-02-10.jpg
+2025-01-29 19:57:24,141 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:24,848 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:24,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:25,061 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:25,062 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:25,604 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:25,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:25,756 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:25,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:26,171 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:26,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:26,577 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:26,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:26,806 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:26,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:27,007 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 19:57:27,008 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:27,406 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 19:57:27,407 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:28,508 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 19:57:28,508 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:28,699 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 19:57:28,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:29,002 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 19:57:29,002 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:29,758 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 19:57:29,760 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:30,112 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:30,112 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:31,677 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:31,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:32,544 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:32,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:33,306 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:33,306 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:33,775 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:33,776 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:33,997 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 19:57:33,998 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:34,357 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-55-08.jpg
+2025-01-29 19:57:34,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:34,761 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:34,762 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:35,006 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:35,006 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:35,875 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:35,875 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:36,739 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:36,740 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:37,595 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:37,595 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:38,182 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:38,183 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:38,513 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 19:57:38,514 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:39,082 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-58.jpg
+2025-01-29 19:57:39,083 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:39,335 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_07-54-58.jpg
+2025-01-29 19:57:39,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:39,512 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 19:57:39,512 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:39,932 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 19:57:39,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:40,745 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 19:57:40,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 19:57:40,976 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\raw\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 19:57:40,977 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 19:57:40,977 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-29 20:04:44,140 - INFO - \U0001f680 Telegram Image scraper started successfully.
+2025-01-29 20:04:44,172 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 20:04:44,278 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 20:04:45,650 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:46,159 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-02-10_12-23-06.jpg
+2025-01-29 20:04:46,161 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:46,858 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-02-02_08-58-52.jpg
+2025-01-29 20:04:46,859 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:47,384 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-02-01_08-59-37.jpg
+2025-01-29 20:04:47,385 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:47,921 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-31_09-19-53.jpg
+2025-01-29 20:04:47,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:48,678 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-30_09-45-25.jpg
+2025-01-29 20:04:48,680 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:49,387 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-27_07-18-40.jpg
+2025-01-29 20:04:49,387 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:49,767 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-26_18-27-53.jpg
+2025-01-29 20:04:49,767 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:50,571 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-23_10-39-20.jpg
+2025-01-29 20:04:50,572 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:51,163 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-17_08-43-12.jpg
+2025-01-29 20:04:51,174 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:51,788 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-16_13-41-35.jpg
+2025-01-29 20:04:51,789 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:52,441 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-16_10-13-42.jpg
+2025-01-29 20:04:52,442 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:52,759 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-16_09-26-09.jpg
+2025-01-29 20:04:52,760 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:53,245 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-13_12-48-47.jpg
+2025-01-29 20:04:53,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:54,008 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-13_09-44-14.jpg
+2025-01-29 20:04:54,009 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:54,459 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-06_16-06-21.jpg
+2025-01-29 20:04:54,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:55,305 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-06_09-31-17.jpg
+2025-01-29 20:04:55,306 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:56,161 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-06_06-05-01.jpg
+2025-01-29 20:04:56,163 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:57,019 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-04_05-58-02.jpg
+2025-01-29 20:04:57,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:57,681 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-03_17-49-48.jpg
+2025-01-29 20:04:57,683 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:58,405 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-03_05-48-34.jpg
+2025-01-29 20:04:58,407 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:58,806 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2023-01-02_07-02-55.jpg
+2025-01-29 20:04:58,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:04:59,466 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-30_15-45-35.jpg
+2025-01-29 20:04:59,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:00,126 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-28_17-02-08.jpg
+2025-01-29 20:05:00,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:00,778 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-28_06-31-50.jpg
+2025-01-29 20:05:00,778 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:01,442 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-27_17-06-32.jpg
+2025-01-29 20:05:01,453 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:01,817 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-23_06-26-15.jpg
+2025-01-29 20:05:01,819 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:02,291 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-22_06-40-25.jpg
+2025-01-29 20:05:02,292 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:02,522 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-22_03-11-26.jpg
+2025-01-29 20:05:02,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:02,817 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-21_15-13-27.jpg
+2025-01-29 20:05:02,819 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:03,426 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-20_17-25-05.jpg
+2025-01-29 20:05:03,427 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:04,037 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-20_11-28-59.jpg
+2025-01-29 20:05:04,038 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:04,612 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-20_07-41-33.jpg
+2025-01-29 20:05:04,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:04,957 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-16_12-21-01.jpg
+2025-01-29 20:05:04,959 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:05,301 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-13_05-55-18.jpg
+2025-01-29 20:05:05,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:05,639 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-09_12-28-53.jpg
+2025-01-29 20:05:05,640 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:06,535 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-09_04-09-49.jpg
+2025-01-29 20:05:06,535 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:07,027 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-07_06-43-48.jpg
+2025-01-29 20:05:07,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:07,618 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-05_05-57-22.jpg
+2025-01-29 20:05:07,619 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:08,084 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-04_12-35-18.jpg
+2025-01-29 20:05:08,085 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:08,581 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-02_13-44-41.jpg
+2025-01-29 20:05:08,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:09,217 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-02_06-06-12.jpg
+2025-01-29 20:05:09,218 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:09,545 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-12-01_06-47-22.jpg
+2025-01-29 20:05:09,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:09,902 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-11-30_06-31-44.jpg
+2025-01-29 20:05:09,903 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:10,345 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-11-29_07-43-06.jpg
+2025-01-29 20:05:10,346 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:10,695 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-11-22_08-15-47.jpg
+2025-01-29 20:05:10,702 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:11,376 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_CheMed123_2022-11-15_11-51-16.jpg
+2025-01-29 20:05:11,791 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:12,003 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:12,004 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:12,301 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:12,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:12,566 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:12,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:12,827 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:12,828 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:13,053 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:13,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:13,893 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:13,894 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:14,623 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:14,624 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:15,312 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_13-01-26.jpg
+2025-01-29 20:05:15,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:15,583 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_12-59-56.jpg
+2025-01-29 20:05:15,584 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:15,850 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-04.jpg
+2025-01-29 20:05:15,852 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:16,140 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:16,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:16,366 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:16,367 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:16,890 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:16,890 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:17,226 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:17,227 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:17,466 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:17,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:17,768 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-03-03.jpg
+2025-01-29 20:05:17,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:18,039 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-29_05-02-10.jpg
+2025-01-29 20:05:18,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:19,080 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:19,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:19,309 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:19,309 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:20,101 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:20,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:20,323 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:20,323 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:20,843 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:20,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:21,323 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:21,324 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:21,603 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:21,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:21,846 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-31.jpg
+2025-01-29 20:05:21,846 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:22,348 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 20:05:22,349 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:23,642 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 20:05:23,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:23,843 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 20:05:23,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:24,193 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 20:05:24,194 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:24,984 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_14-36-30.jpg
+2025-01-29 20:05:24,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:25,428 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:25,429 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:27,309 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:27,310 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:28,303 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:28,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:29,311 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:29,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:29,849 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:29,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:30,042 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_10-54-52.jpg
+2025-01-29 20:05:30,043 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:30,355 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-55-08.jpg
+2025-01-29 20:05:30,355 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:30,684 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:30,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:30,905 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:30,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:31,752 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:31,752 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:32,746 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:32,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:33,443 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:33,444 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:34,027 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:34,028 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:34,345 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-59.jpg
+2025-01-29 20:05:34,346 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:34,962 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-58.jpg
+2025-01-29 20:05:34,963 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:35,200 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_07-54-58.jpg
+2025-01-29 20:05:35,202 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:35,380 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 20:05:35,381 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:35,891 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 20:05:35,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:36,735 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 20:05:36,736 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-29 20:05:36,949 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\data\images\_lobelia4cosmetics_2025-01-28_05-19-58.jpg
+2025-01-29 20:05:36,949 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 20:05:36,950 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-29 20:06:32,516 - INFO - \U0001f680 Telegram message scraper started successfully.
+2025-01-29 20:06:32,547 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-29 20:06:32,659 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-29 20:06:34,164 - INFO - \u2705 Scraped 100 messages from https://t.me/DoctorsET
+2025-01-29 20:06:34,614 - INFO - \u2705 Scraped 76 messages from https://t.me/CheMed123
+2025-01-29 20:06:35,054 - INFO - \u2705 Scraped 100 messages from https://t.me/lobelia4cosmetics
+2025-01-29 20:06:35,696 - INFO - \u2705 Scraped 100 messages from https://t.me/yetenaweg
+2025-01-29 20:06:36,272 - INFO - \u2705 Scraped 100 messages from https://t.me/EAHCI
+2025-01-29 20:06:36,277 - INFO - \U0001f4cc Messages saved successfully!
+2025-01-29 20:06:36,278 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-29 20:06:36,278 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
