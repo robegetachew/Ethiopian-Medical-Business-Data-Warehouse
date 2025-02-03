@@ -21,7 +21,6 @@ The following Telegram channels will be targeted for data scraping:
 - Use the `telethon` library in Python to interact with the Telegram API.
 - Develop scripts to extract data from the specified channels.
 - Alternatively, export content using the Telegram application if necessary.
-
 ### 2. **Image and Data Collection**
 - Focus on collecting images specifically from:
   - Chemed Telegram Channel
