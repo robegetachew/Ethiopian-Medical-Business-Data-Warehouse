@@ -5,7 +5,6 @@ A comprehensive data warehouse project for scraping, cleaning, and analyzing Eth
 # **Task 1: Data Scraping and Collection Pipeline**
 ### **Overview**
 This project aims to develop a data scraping and collection pipeline to extract relevant data from public Telegram channels related to Ethiopian medical businesses. The project will utilize the Telegram API and custom scripts for data extraction, focusing on both textual data and images for object detection.
-
 ### **Channels to Scrape**
 The following Telegram channels will be targeted for data scraping:
 
