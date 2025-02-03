@@ -1,19 +1,16 @@
 # Ethiopian-Medical-Business-Data-Warehouse
 
 A comprehensive data warehouse project for scraping, cleaning, and analyzing Ethiopian medical business data from Telegram channels. This project includes data collection pipelines, data transformation using DBT, object detection with YOLO, and a FastAPI interface for data access.
-
 # **Task 1: Data Scraping and Collection Pipeline**
 ### **Overview**
 This project aims to develop a data scraping and collection pipeline to extract relevant data from public Telegram channels related to Ethiopian medical businesses. The project will utilize the Telegram API and custom scripts for data extraction, focusing on both textual data and images for object detection.
 ### **Channels to Scrape**
 The following Telegram channels will be targeted for data scraping:
-
 - [Doctors Ethiopia](https://t.me/DoctorsET)
 - [Chemed Telegram Channel](https://t.me/Chemed)
 - [Lobelia Pharmacy and Cosmetics](https://t.me/lobelia4cosmetics)
 - [Yetenaweg](https://t.me/yetenaweg)
 - [Ethio-American Medical Trainings](https://t.me/EAHCI)
-
 ### Objectives
 1. **Text Data Extraction**: Scrape and collect textual data from the specified Telegram channels.
 2. **Image Collection**: Gather images from the targeted channels for future object detection tasks.
