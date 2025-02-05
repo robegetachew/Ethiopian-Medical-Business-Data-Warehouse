@@ -42,7 +42,6 @@ The following Telegram channels will be targeted for data scraping:
   - Track progress
   - Capture errors
   - Log important events during the scraping operation
-
 ## **Conclusion**
 Upon completion of this task, the pipeline will effectively scrape and collect data from the specified Telegram channels, providing valuable insights into Ethiopian medical businesses. The collected data will be stored for further analysis and potential machine learning applications.
 
