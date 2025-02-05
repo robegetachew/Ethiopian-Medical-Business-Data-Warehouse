@@ -35,14 +35,11 @@ The following Telegram channels will be targeted for data scraping:
 
 ### 3. **Storing Raw Data**
 - **Initial Storage**: Store the scraped data in a temporary location such as a local database or flat files for further processing.
-
 ### 4. **Monitoring and Logging**
 - Implement logging to monitor the scraping process:
   - Track progress
   - Capture errors
   - Log important events during the scraping operation
-
-
 ## **Conclusion**
 Upon completion of this task, the pipeline will effectively scrape and collect data from the specified Telegram channels, providing valuable insights into Ethiopian medical businesses. The collected data will be stored for further analysis and potential machine learning applications.
 
