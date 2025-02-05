@@ -1,0 +1,31 @@
+[0m18:30:31.125971 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000234ADB899A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000234AC9EA150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000234ADE87DA0>]}
+
+
+============================== 18:30:31.141061 | abbbf4cd-5ec5-48d3-afa0-4e1adc6ce8d1 ==============================
+[0m18:30:31.141061 [info ] [MainThread]: Running with dbt=1.9.2
+[0m18:30:31.142041 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\amenz\\.dbt', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'invocation_command': 'dbt init EMBD', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m18:30:31.337938 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse logging event dictionary. Failed to parse dir field: expected string or bytes-like object, got 'WindowsPath'.. Dictionary: {'dir': WindowsPath('C:/Users/amenz/.dbt')}
+[0m18:30:31.338967 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m18:30:31.348163 [debug] [MainThread]: Starter project path: D:\KAIM\Ethiopian-Medical-Business-Data-Warehouse\ethiopian-medical-data-warehouse\Lib\site-packages\dbt\include\starter_project
+[0m18:30:31.379712 [info ] [MainThread]:  
+Your new dbt project "Medical_Business_Data_Warehouse" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m19:31:32.479731 [info ] [MainThread]: Setting up your profile.
+[0m19:32:43.000451 [info ] [MainThread]: Profile Medical_Business_Data_Warehouse written to C:\Users\amenz\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m19:32:43.003695 [debug] [MainThread]: Command `dbt init` succeeded at 19:32:43.003695 after 70.79 seconds
+[0m19:32:43.004706 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EC9E0D24B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EC9F827050>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EC9F0A1A60>]}
+[0m19:32:43.005760 [debug] [MainThread]: Flushing usage events
+[0m19:32:44.141395 [debug] [MainThread]: An error was encountered while trying to flush usage events

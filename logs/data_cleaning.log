@@ -1,0 +1,125 @@
+2025-01-30 19:02:01,463 - INFO - \U0001f680 Data Cleaning Log.
+2025-01-30 19:03:20,141 - INFO - \U0001f680 Data Cleaning Log.
+2025-01-30 19:03:20,177 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:05:01,876 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:05:07,646 - INFO - \U0001f680 Data Cleaning Log.
+2025-01-30 19:05:07,692 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:12:15,186 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:12:15,210 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:12:57,877 - ERROR - \u274c Data cleaning error: Index(['ID'], dtype='object')
+2025-01-30 19:13:12,374 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:13:12,402 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:13:12,420 - ERROR - \u274c Data cleaning error: Index(['ID'], dtype='object')
+2025-01-30 19:13:41,179 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:13:41,206 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:13:41,246 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:13:41,247 - INFO - \u2705 Missing values filled.
+2025-01-30 19:13:41,256 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:13:41,270 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:13:41,299 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-30 19:15:06,281 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:15:06,362 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:15:06,397 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:15:06,398 - INFO - \u2705 Missing values filled.
+2025-01-30 19:15:06,409 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:15:06,428 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:15:06,506 - ERROR - \u274c Data cleaning error: 'Message'
+2025-01-30 19:15:30,756 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:15:30,780 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:15:30,801 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:15:30,801 - INFO - \u2705 Missing values filled.
+2025-01-30 19:15:30,808 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:15:30,824 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:15:30,853 - INFO - \u2705 YouTube links extracted and stored in 'youtube_links' column.
+2025-01-30 19:15:30,856 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-30 19:15:34,482 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:15:34,502 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:15:34,503 - INFO - \u2705 Missing values filled.
+2025-01-30 19:15:34,511 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:15:34,525 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:15:34,557 - INFO - \u2705 YouTube links extracted and stored in 'youtube_links' column.
+2025-01-30 19:15:34,560 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-30 19:15:35,805 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:15:35,823 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:15:35,823 - INFO - \u2705 Missing values filled.
+2025-01-30 19:15:35,830 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:15:35,843 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:15:35,871 - INFO - \u2705 YouTube links extracted and stored in 'youtube_links' column.
+2025-01-30 19:15:35,873 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-30 19:16:17,320 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:16:17,342 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:16:17,364 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:16:17,365 - INFO - \u2705 Missing values filled.
+2025-01-30 19:16:17,372 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:16:17,387 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:16:17,414 - ERROR - \u274c Data cleaning error: 'youtube_links'
+2025-01-30 19:16:43,562 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-30 19:16:43,587 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-30 19:16:43,609 - INFO - \u2705 Date column formatted to datetime.
+2025-01-30 19:16:43,610 - INFO - \u2705 Missing values filled.
+2025-01-30 19:16:43,617 - INFO - \u2705 Text columns standardized.
+2025-01-30 19:16:43,632 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-30 19:16:43,693 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:17:21,914 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-31 17:17:23,986 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 17:17:28,024 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:17:28,025 - INFO - \u2705 Missing values filled.
+2025-01-31 17:17:28,069 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:17:28,123 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:17:28,244 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:21:39,071 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:21:39,073 - INFO - \u2705 Missing values filled.
+2025-01-31 17:21:39,093 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:21:39,145 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:21:39,261 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:35:51,025 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-31 17:35:51,077 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 17:35:51,109 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:35:51,110 - INFO - \u2705 Missing values filled.
+2025-01-31 17:35:51,141 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:35:51,220 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:35:51,335 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:36:04,020 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 17:36:04,044 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:36:04,046 - INFO - \u2705 Missing values filled.
+2025-01-31 17:36:04,076 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:36:04,135 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:36:04,264 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:38:39,434 - INFO - \u2705 Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 17:39:06,894 - INFO - \u2705 Cleaned data saved successfully to '../data/processed/cleaned_telegram_data.csv'.
+2025-01-31 17:40:41,140 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-31 17:40:41,190 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 17:40:41,216 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:40:41,218 - INFO - \u2705 Missing values filled.
+2025-01-31 17:40:41,248 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:40:41,318 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:40:41,474 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:40:41,623 - INFO - \u2705 Cleaned data saved successfully to '../data/processed/cleaned_telegram_data.csv'.
+2025-01-31 17:42:45,586 - ERROR - \u274c Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 17:47:02,841 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-31 17:47:02,905 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 17:47:02,934 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 17:47:02,935 - INFO - \u2705 Missing values filled.
+2025-01-31 17:47:02,982 - INFO - \u2705 Text columns standardized.
+2025-01-31 17:47:03,039 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 17:47:03,182 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 17:47:03,281 - INFO - \u2705 Cleaned data saved successfully to '../data/processed/cleaned_telegram_data.csv'.
+2025-01-31 17:47:03,680 - ERROR - \u274c Database connection failed: No module named 'psycopg2'
+2025-01-31 17:47:22,420 - INFO - \u2705 Successfully connected to the PostgreSQL database.
+2025-01-31 17:54:44,059 - INFO - \u2705 Table 'telegram_messages' created successfully.
+2025-01-31 17:55:57,340 - INFO - \u2705 Successfully connected to the PostgreSQL database.
+2025-01-31 17:56:10,991 - INFO - \u2705 Table 'telegram_messages' created successfully.
+2025-01-31 17:58:21,638 - ERROR - \u274c Error inserting data: 'message_date'
+2025-01-31 17:59:09,327 - ERROR - \u274c Error inserting data: 'message_date'
+2025-01-31 18:01:05,777 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-01-31 18:01:05,828 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-01-31 18:01:05,852 - INFO - \u2705 Date column formatted to datetime.
+2025-01-31 18:01:05,853 - INFO - \u2705 Missing values filled.
+2025-01-31 18:01:05,895 - INFO - \u2705 Text columns standardized.
+2025-01-31 18:01:05,955 - INFO - \u2705 Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 18:01:06,072 - INFO - \u2705 Data cleaning completed successfully.
+2025-01-31 18:01:06,174 - INFO - \u2705 Cleaned data saved successfully to '../data/processed/cleaned_telegram_data.csv'.
+2025-01-31 18:01:06,318 - INFO - \U0001f680 Database Setup Log initialized successfully!
+2025-01-31 18:01:06,394 - INFO - \u2705 Successfully connected to the PostgreSQL database.
+2025-01-31 18:01:06,419 - INFO - \u2705 Table 'Medical_DataWarehouse' created successfully.
+2025-01-31 18:01:07,614 - INFO - \u2705 3828 records inserted into PostgreSQL database.

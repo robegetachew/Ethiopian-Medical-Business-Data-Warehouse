@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: medical_data
+    database: Medical_DataWarehouse
+    schema: public
+    tables:
+      - name: medical_datawarehouse
+
+models:
+  - name: transformed_messages
+    description: "Cleaned and transformed messages data"
+    columns:
+      - name: channel_name
+        description: "The name of the channel"
+      - name: message_date
+        description: "Date and time of the message"
+      - name: has_emoji
+        description: "Indicates if an emoji was used"

@@ -1,0 +1,16 @@
+
+train: D:/KAIM/Ethiopian-Medical-Business-Data-Warehouse/data/train/images  # Specify the correct path to training images
+val: D:/KAIM/Ethiopian-Medical-Business-Data-Warehouse/data/valid/images    # Specify the correct path to validation images
+
+nc: 9  # Number of classes
+names: [
+  'cosmotic',
+  'food-package', 
+  'supliment', 
+  'formula-milk', 
+  'lotion-moisturizer', 
+  'medicine', 
+  'mini-drop', 
+  'pregnancy', 
+  'other'
+]
