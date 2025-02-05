@@ -36,7 +36,6 @@ The following Telegram channels will be targeted for data scraping:
 
 ### 3. **Storing Raw Data**
 - **Initial Storage**: Store the scraped data in a temporary location such as a local database or flat files for further processing.
-
 ### 4. **Monitoring and Logging**
 - Implement logging to monitor the scraping process:
   - Track progress
